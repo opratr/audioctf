@@ -3,6 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="audio-ctf",
     version="0.1.0",
+    license="MIT",
     packages=find_packages(),
     install_requires=[
         "numpy>=1.24.0",

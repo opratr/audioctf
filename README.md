@@ -79,3 +79,11 @@ audioctf scan unknown_audio.wav
 - **LSB Steganography**: 1-3 bit extraction with file magic detection
 - **SSTV**: Martin M1, Scottie S1, Robot 36 modes
 - **Baudot/RTTY**: 45.45/50 baud, standard and UHF frequencies
+
+## Contributing
+
+Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for development setup, the analyzer contract, and how to submit changes.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
