@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.eggs/
+dist/
+build/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Test artifacts
+*.wav
+*.png
+*.mp3
+*.flac
+
+# Tools
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
